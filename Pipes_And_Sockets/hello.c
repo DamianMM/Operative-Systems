@@ -12,9 +12,7 @@
 
 
 #define SERVER_IP "127.0.01"
-//#define SERVER_IP "84.217.193.203"
-//#define SERVER_IP "192.168.0.104"
-//#define SERVER_IP "198.143.54.33"
+//There can be other IP-Addresses here.
 #define SERVER_PORT 8080
 
 void main(void){
